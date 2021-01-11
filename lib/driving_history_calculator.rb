@@ -1,5 +1,5 @@
 require 'time'
-require "./trip"
+require_relative '../lib/trip'
 
 class DrivingHistoryCalculator
 
